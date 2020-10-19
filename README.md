@@ -1,4 +1,10 @@
-### Hi there 👋
+[![Social banner for frakman1](https://github.com/frakman1/frakman1/raw/master/assets/matrix32.gif)](https://github.com/frakman1)
+<h1 align='center'> Hi! :wave:</h1>
+<p align='center'>
+I'm Frak.
+</p>
+
+<h1 align='center'><i>Rock On!</i></h1>
 
 <!--
 **frakman1/frakman1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
